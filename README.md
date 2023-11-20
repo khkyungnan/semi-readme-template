@@ -57,5 +57,5 @@
 
 <!-- Stack Icon Refernces -->
 
-[js]: ./static/img/javascript.svg
-[java]: ./static/img/java.svg
+[js]: ./readme-static/img/javascript.svg
+[java]: ./readme-static/img/java.svg
